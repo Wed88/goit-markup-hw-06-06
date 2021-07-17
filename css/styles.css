@@ -610,6 +610,12 @@ img {
   cursor: pointer;
 }
 
+.form-footer-imput-icon {
+  width: 24px;
+  height: 24px;
+  margin-left: 10px;
+}
+
 /* Main Portfolio */
 
 .list-filter {
